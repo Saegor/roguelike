@@ -1,4 +1,5 @@
 # roguelike
 minimal roguelike in python
 
-written for ncurses
+written with ncurses
+keymap : vim (hjkl) controls, q to quit
